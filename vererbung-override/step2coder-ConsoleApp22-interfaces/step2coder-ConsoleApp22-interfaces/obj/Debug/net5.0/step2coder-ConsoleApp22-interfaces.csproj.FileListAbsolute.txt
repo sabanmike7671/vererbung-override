@@ -1,0 +1,4 @@
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp22-interfaces\step2coder-ConsoleApp22-interfaces\obj\Debug\net5.0\step2coder-ConsoleApp22-interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp22-interfaces\step2coder-ConsoleApp22-interfaces\obj\Debug\net5.0\step2coder-ConsoleApp22-interfaces.AssemblyInfoInputs.cache
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp22-interfaces\step2coder-ConsoleApp22-interfaces\obj\Debug\net5.0\step2coder-ConsoleApp22-interfaces.AssemblyInfo.cs
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp22-interfaces\step2coder-ConsoleApp22-interfaces\obj\Debug\net5.0\step2coder-ConsoleApp22-interfaces.csproj.CoreCompileInputs.cache
